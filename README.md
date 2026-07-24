@@ -19,7 +19,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AymenMazouz&&style=flat-square" align="center" />
 </div> 
 </div>  
   
@@ -122,20 +121,7 @@
 </table>   
   
 
-## 📊 Github Stats  
 
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AymenMazouz&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMazouz&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
  
 <!--
